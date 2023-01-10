@@ -1,10 +1,9 @@
 
-<a href="https://www.linkedin.com/in/dawid-piech-2a2999159/" style="text-decoration: none; color: white; display: flex; align-items: center; font-weight: 900">
-  <img align="left" alt="Dawid Piech LinkedIn" width="50px" style="filter: invert(18%) sepia(88%) saturate(4762%) hue-rotate(200deg) brightness(96%) contrast(92%); width:" src="./linkedin.svg" />
-  Linkedin profile
+<a href="https://www.linkedin.com/in/dawid-piech-2a2999159/">
+  <img align="left" alt="Dawid Piech LinkedIn" width="100px" src="./linkedin.svg" />
 </a>
 
-<div style="display: flex; align-items:center; justify-content: space-around; width: 100%;">
+<div align="left" style="display: flex; align-items:center; justify-content: space-around; width: 100%;">
   <ul style="padding: 50px">
     <h2 style="dispaly: box; padding: 0; margin: 0 0 0 -40px;">⚡️ A Few Quick Facts</h2>
     <li>🧐 I graduated in computer science and econometrics</li>
@@ -14,7 +13,7 @@
     <li>📙 Check out my <a href="https://piech.it/static/media/CV.7e027fc792a8a0b792bd.pdf">resume</a>.</li>
     <li>🎉 Fun Fact: I could have wheels instead of legs 🚘</li>
   </ul>
-  <img width="300px" align="left" src="./meme.jpg" />
+  <img width="300px" align="right" src="./meme.jpg" />
 </div>
 
 
