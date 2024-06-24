@@ -6,8 +6,12 @@
 Hi, I'm David, Front-end developer with over a year of experience in building web applications using Javascript, HTML/CSS, and React.js,
 as well as applications based on the Wordpress platform. I also have experience in writing API interfaces and extensive knowledge of database design and management. I work on a daily basis with both technical and non-technical teams, along with business clients in an international environment. Currently, I am seeking new challenges and development opportunities, particularly in the e-commerce industry.
 
-[![Linkedin](https://img.shields.io/badge/-Dawid%20Piech-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marcin-gajzler-27052a178/)
-[![Gmail](https://img.shields.io/badge/--Dawid%20Piech-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:marcin.mcgajzler@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-Dawid%20Piech-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dawid-piech/)
+[![Gmail](https://img.shields.io/badge/-Dawid%20Piech-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:dawid.piech243@gmail.com)
+<br />
+<br />
+<br />
+<br />
 
 ## Technologies and frameworks i use
 
