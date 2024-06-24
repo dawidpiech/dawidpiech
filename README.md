@@ -12,6 +12,8 @@ as well as applications based on the Wordpress platform. I also have experience 
 <br />
 <br />
 <br />
+<br />
+<br />
 
 ## Technologies and frameworks i use
 
